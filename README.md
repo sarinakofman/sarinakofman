@@ -1,14 +1,16 @@
 ## Hello! Thank you for visiting my page! 
-I am a full stack engineer who loves exploring new areas in Computer Science and learning new things!
+I am an advanced full stack engineer who loves exploring new areas in Computer Science and learning new things!
 ## Skills:
-- PHP
 - Vue.js
 - Javascript
 - Python
+- PHP
 - HTML/CSS
 - MySQL
-- Selenium Testing
-- Cypress Testing
+- Testing: Selenium, Cypress, Unit, UAT
+- AWS
+- Kubernetes
+- Google Cloud: Vertex AI, BigQuery
 - ....and more!
 
 <!--
